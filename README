@@ -1,0 +1,8 @@
+Long ago there was a development tool for Java named StringTheory(tm).
+It didn't do terribly well in the marketplace, but it was a handy little
+library. Over the years it has been ported to a couple of other languages.
+This is a very rough sketch of what the final StringTheory for Javascript
+will be like. 
+
+Feedback is begged for. Even if this sucks, if you can articulate WHY it 
+sucks, that would be very useful to hear about. Politely, of course! :)
