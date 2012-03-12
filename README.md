@@ -14,3 +14,6 @@ Here's an example from the test suite:
     str = new ST("eat oats and does eat oats but little lambs eat ivy.");
     str.paste(0, "Mares "); // str => "Mares eat oats and does eat oats but little lambs eat ivy.");
     console.log(str.text);
+
+### License
+This material is available under the MIT license. See license.txt in this repo.
